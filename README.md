@@ -1,6 +1,5 @@
-# 🤗 About Me:
-╰─┈➢ Good things don't last ... 🪽
-
+# 🤗 SOROUSH (AiHoma):
+#╰─┈➢ Good things don't last ... 🪽
 
 # 🧑‍💻 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aihoma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aihoma/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Ai_Homa) 
@@ -19,5 +18,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Aihoma&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=Aihoma&icon=5&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
