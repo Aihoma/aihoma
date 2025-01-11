@@ -1,4 +1,4 @@
-# 🤗 SOROUSH (AiHoma) :
+# 🤗 SOROUSH (AiHoma) : 🇸 🇴 🇷 🇴 🇺 🇸 🇭
   ╰─┈➢ Good things don't last ... 🪽
 
 # 🧑‍💻 Fallow me :
